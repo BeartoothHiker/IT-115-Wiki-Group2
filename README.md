@@ -16,9 +16,9 @@ This repository is maintained by the mebers of **IT 115-Group 2** and is not ope
 
 #### Team Members:
 * @Clare Swensen
-* @Donnivin Rogers
+* @Donnovin Rogers
 * @Jeremy Robinson
-* @Sam Smollen
+* @Sam Smolen
 
 ### Contact
 If you have comments/suggestions reach out to any of the team members.
