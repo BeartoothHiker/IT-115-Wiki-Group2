@@ -6,10 +6,10 @@ This is a brief introduction to Augmented Reality and some of its applications a
 The Wiki can be found at https://github.com/BeartoothHiker/IT-115-Wiki-Group2/wiki.
 
 ### Purpose
-The primary goal of this Wiki is to create a familiarize ourselves with Wiki creation and maintenance. It was created by **_Group 2_** of  [**IT 115 - Software Development Tools**](https://canvas.seattlecentral.edu/courses/2114633), in the Fall 2021 Quarter at Seattle Central College.
+The primary goal of this Wiki is to create a Wiki on GitHub.com and familiarize ourselves with Wiki creation and maintenance. It was created by _Group 2_ of  [**IT 115 - Software Development Tools**](https://canvas.seattlecentral.edu/courses/2114633), in the Fall 2021 Quarter at Seattle Central College.
 
 ### Fair Use / License
-This repository be used as an example for creating your own project Wiki, although there may be better examples.  Feel free to peruse our wiki, and use it as a starting point for your own.
+This repository can be used as an example for creating your own project Wiki, although there may be better examples.  Feel free to peruse our wiki, and use it as a starting point for your own.
 
 ### Contributions
 This repository is maintained by the mebers of **IT 115-Group 2** and is not open to other contributors at this time.
