@@ -6,7 +6,7 @@ This is a brief introduction to Augmented Reality and some of its applications a
 The Wiki can be found at https://github.com/BeartoothHiker/IT-115-Wiki-Group2/wiki.
 
 ### Purpose
-The primary goal of this Wiki is to create a Wiki on GitHub.com and familiarize ourselves with Wiki creation and maintenance. It was created by _Group 2_ of This wiki is created by **_Group 2_** of  [**IT 115 - Software Development Tools**](https://canvas.seattlecentral.edu/courses/2114633), in the Fall 2021 Quarter at Seattle Central College.
+The primary goal of this Wiki is to create a familiarize ourselves with Wiki creation and maintenance. It was created by **_Group 2_** of  [**IT 115 - Software Development Tools**](https://canvas.seattlecentral.edu/courses/2114633), in the Fall 2021 Quarter at Seattle Central College.
 
 ### Fair Use / License
 This repository be used as an example for creating your own project Wiki, although there may be better examples.  Feel free to peruse our wiki, and use it as a starting point for your own.
@@ -15,10 +15,10 @@ This repository be used as an example for creating your own project Wiki, althou
 This repository is maintained by the mebers of **IT 115-Group 2** and is not open to other contributors at this time.
 
 #### Team Members:
-* @Clare Swensen
-* @Donnovin Rogers
-* @Jeremy Robinson
-* @Sam Smolen
+* Clare Swensen
+* Donnovin Rogers
+* Jeremy Robinson
+* Sam Smolen
 
 ### Contact
 If you have comments/suggestions reach out to any of the team members.
@@ -27,18 +27,18 @@ Cheers!
 
 #### Todo List
 - [x] Create ReadMe
-- [ ] Create HomePage Content, and rename Home Page MD
+- [x] Create HomePage Content, and rename Home Page MD
 - [ ] Provide TOC
-- [ ] Create Topic Pages
-- [ ] Update TOC entries on Home Page to point to Content
-- [ ] Verify/fix any references/citiations each home page
-- [ ] Verify each topic page has name or email for creater/owner
-- [ ] Verify each topic page has link back to Home/TOC page
-- [ ] Deterime proper "License" agreement info in ReadMe.md
-- [ ] Edit topic pages
-- [ ] Edit ReadMe
+- [x] Create Topic Pages
+- [x] Update TOC entries on Home Page to point to Content
+- [x] Verify/fix any references/citiations each home page
+- [x] Verify each topic page has name or email for creater/owner
+- [x] Verify each topic page has link back to Home/TOC page
+- [ ] Determine proper License agreement info in ReadMe.md
+- [x] Edit topic pages
+- [x] Edit ReadMe
 
-#### Issues (Track anything that isn't working correctly)
+#### Issues List
 - [ ] New Issue
 
 
